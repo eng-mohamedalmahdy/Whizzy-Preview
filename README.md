@@ -6,7 +6,7 @@ Whizzy is a revolutionary mobile application designed to simplify the process of
 
 
   
-<img src="logo.png" alt="Whizzy Logo" style="width: 300px; display: block; margin: auto;">
+<img src="img/logo.png" alt="Whizzy Logo" style="width: 300px; display: block; margin: auto;">
 
 Features
 --------
@@ -61,31 +61,31 @@ After completing a ride, users can access their trip history within the app. Whi
 ### iPhone Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="1%2014%20pro.png" alt="iPhone Screenshot 1" style="width: 18%;">
-    <img src="2%2014%20pro.png" alt="iPhone Screenshot 2" style="width: 18%;">
-    <img src="3%2014%20pro.png" alt="iPhone Screenshot 3" style="width: 18%;">
-    <img src="4%2014%20pro.png" alt="iPhone Screenshot 4" style="width: 18%;">
-    <img src="5%2014%20pro.png" alt="iPhone Screenshot 5" style="width: 18%;">
+    <img src="img/1%2014%20pro.png" alt="iPhone Screenshot 1" style="width: 18%;">
+    <img src="img/2%2014%20pro.png" alt="iPhone Screenshot 2" style="width: 18%;">
+    <img src="img/3%2014%20pro.png" alt="iPhone Screenshot 3" style="width: 18%;">
+    <img src="img/4%2014%20pro.png" alt="iPhone Screenshot 4" style="width: 18%;">
+    <img src="img/5%2014%20pro.png" alt="iPhone Screenshot 5" style="width: 18%;">
 </div>
 
 ### iPad mini Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="iPad%20mini%20%E2%80%93%2011.png" alt="iPad mini 11" style="width: 18%;">
-    <img src="iPad%20mini%20%E2%80%93%2012.png" alt="iPad mini 12" style="width: 18%;">
-    <img src="iPad%20mini%20%E2%80%93%2013.png" alt="iPad mini 13" style="width: 18%;">
-    <img src="iPad%20mini%20%E2%80%93%2014.png" alt="iPad mini 14" style="width: 18%;">
-    <img src="iPad%20mini%20%E2%80%93%2015.png" alt="iPad mini 15" style="width: 18%;">
+    <img src="img/iPad%20mini%20%E2%80%93%2011.png" alt="iPad mini 11" style="width: 18%;">
+    <img src="img/iPad%20mini%20%E2%80%93%2012.png" alt="iPad mini 12" style="width: 18%;">
+    <img src="img/iPad%20mini%20%E2%80%93%2013.png" alt="iPad mini 13" style="width: 18%;">
+    <img src="img/iPad%20mini%20%E2%80%93%2014.png" alt="iPad mini 14" style="width: 18%;">
+    <img src="img/iPad%20mini%20%E2%80%93%2015.png" alt="iPad mini 15" style="width: 18%;">
 </div>
 
 ### iPad Pro 12.9-inch Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="iPad%20Pro%2012.9in%20%E2%80%93%2011.png" alt="iPad Pro 12.9in 11" style="width: 18%;">
-    <img src="iPad%20Pro%2012.9in%20%E2%80%93%2012.png" alt="iPad Pro 12.9in 12" style="width: 18%;">
-    <img src="iPad%20Pro%2012.9in%20%E2%80%93%2013.png" alt="iPad Pro 12.9in 13" style="width: 18%;">
-    <img src="iPad%20Pro%2012.9in%20%E2%80%93%2014.png" alt="iPad Pro 12.9in 14" style="width: 18%;">
-    <img src="iPad%20Pro%2012.9in%20%E2%80%93%2015.png" alt="iPad Pro 12.9in 15" style="width: 18%;">
+    <img src="img/iPad%20Pro%2012.9in%20%E2%80%93%2011.png" alt="iPad Pro 12.9in 11" style="width: 18%;">
+    <img src="img/iPad%20Pro%2012.9in%20%E2%80%93%2012.png" alt="iPad Pro 12.9in 12" style="width: 18%;">
+    <img src="img/iPad%20Pro%2012.9in%20%E2%80%93%2013.png" alt="iPad Pro 12.9in 13" style="width: 18%;">
+    <img src="img/iPad%20Pro%2012.9in%20%E2%80%93%2014.png" alt="iPad Pro 12.9in 14" style="width: 18%;">
+    <img src="img/iPad%20Pro%2012.9in%20%E2%80%93%2015.png" alt="iPad Pro 12.9in 15" style="width: 18%;">
 </div>
 
 
