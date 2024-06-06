@@ -51,6 +51,8 @@ After completing a ride, users can access their trip history within the app. Whi
 ### Asynchronous Programming
 - **Combine & GCD (Grand Central Dispatch)**: Whizzy employs Combine and GCD to handle asynchronous operations and concurrency, enabling responsive user interactions and efficient resource management.
 
+## Screenshots
+
 
 Get Started
 -----------
